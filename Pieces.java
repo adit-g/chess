@@ -1,0 +1,15 @@
+public enum Pieces {
+    BLANK,
+    PAWN_WHITE,
+    PAWN_BLACK,
+    ROOK_WHITE,
+    ROOK_BLACK,
+    HORSE_WHITE,
+    HORSE_BLACK,
+    BISHOP_WHITE,
+    BISHOP_BLACK,
+    QUEEN_WHITE,
+    QUEEN_BLACK,
+    KING_WHITE,
+    KING_BLACK
+}
