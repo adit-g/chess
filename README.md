@@ -1,2 +1,2 @@
 # chess
-a game of chess coded completely in java
+A game of chess coded completely in java! Simply run javac Chess.java and then java Chess
